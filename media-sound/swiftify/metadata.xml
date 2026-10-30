@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<upstream>
+		<remote-id type="github">swiftify-org/swiftify</remote-id>
+	</upstream>
+	<use>
+		<flag name="integration">Build the Linux desktop integration.</flag>
+		<flag name="soloist">Build support for spofify soloist.</flag>
+	</use>
+</pkgmetadata>
